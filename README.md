@@ -1,10 +1,10 @@
 *This project has been created as part of the 42 curriculum by edsole-a.*
 
-# Born2beroot
+# Born2beRoot
 
 ## Description
 
-Born2beroot is a system administration project that introduces the fundamentals of virtualization and server configuration. The goal is to set up a minimal Linux virtual machine following strict rules: no graphical interface, enforced security policies, a configured firewall, SSH access, and a strong password policy — all managed without ever touching a GUI.
+Born2beRoot is a system administration project that introduces the fundamentals of virtualization and server configuration. The goal is to set up a minimal Linux virtual machine following strict rules: no graphical interface, enforced security policies, a configured firewall, SSH access, and a strong password policy — all managed without ever touching a GUI.
 
 The project covers partitioning with LVM, configuring sudo, setting up UFW, and writing a monitoring script that broadcasts system info every 10 minutes via `wall`.
 
